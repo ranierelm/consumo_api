@@ -8,6 +8,7 @@ Utilizei:
 
 - Gerencia de estado com [ValueNotifier].
 - Package [HTTP] para realizar a chamada.
+- Api usada no projeto [DummyJSON]
 
 # API CONSUMPTION
 
@@ -17,5 +18,6 @@ I decided to create this example to show how I consume a Rest API in the project
 
 I used:
 
-State management with [ValueNotifier].
-[HTTP] package to make the API call.
+- State management with [ValueNotifier].
+- [HTTP] package to make the API call.
+- Api used in the project [DummyJSON].
